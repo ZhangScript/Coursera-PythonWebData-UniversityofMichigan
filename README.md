@@ -1,7 +1,7 @@
-# Coursera_PythonWebData_Michigan
+# Coursera-PythonWebData-UniversityofMichigan
 Code I written for assignment 
 
-I took this course in April, 2016. The course can teach you basic skill to deal with web data using python.
+I took this course in April, 2016. The course teaches basic skills to deal with web data using python.
 The link of the course: https://www.coursera.org/learn/python-network-data/home/welcome.
-You can take my code as consideration. 
+My solution for the assignments has gotten full marks. You can take my code as consideration. 
  
